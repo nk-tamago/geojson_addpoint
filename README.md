@@ -5,7 +5,7 @@ geojson.ioで作成したFeatureCollectionに指定した速度の移動距離�
 $ npm install
 
 # Usage
-node index.js [<configfile>]
+node index.js [configfile]
 
 ## Example
 $ node .\index.js .\config_example.json
