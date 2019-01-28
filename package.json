@@ -1,0 +1,20 @@
+{
+  "name": "geojson_addpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@turf/along": "^6.0.1",
+    "@turf/buffer": "^5.1.5",
+    "@turf/collect": "^6.0.1",
+    "@turf/helpers": "^6.1.4",
+    "@turf/length": "^6.0.2",
+    "@turf/meta": "^6.0.2",
+    "turf": "^3.0.14"
+  }
+}
