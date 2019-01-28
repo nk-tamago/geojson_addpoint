@@ -1,0 +1,8 @@
+{
+    "writepath":".\\example\\out",
+    "targets":[
+        {"speed":20, "targetpath":".\\example\\input.json", "outfile": "file1.json"},
+        {"speed":60, "targetpath":".\\example\\input.json", "outfile": "file2.json"},
+        {"speed":100, "targetpath":".\\example\\input.json", "outfile": "file3.json"}
+    ]
+}

@@ -1,8 +1,0 @@
-{
-    "writepath":"C:\\Work\\Program\\geojson_addpoint\\example\\out",
-    "targets":[
-        {"speed":20, "targetpath":"C:\\Work\\Program\\geojson_addpoint\\example\\input.json", "outfile": "file1.json"},
-        {"speed":60, "targetpath":"C:\\Work\\Program\\geojson_addpoint\\example\\input.json", "outfile": "file2.json"},
-        {"speed":100, "targetpath":"C:\\Work\\Program\\geojson_addpoint\\example\\input.json", "outfile": "file3.json"}
-    ]
-}
